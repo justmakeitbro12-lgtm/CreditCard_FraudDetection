@@ -1,7 +1,5 @@
 # CreditCard_FraudDetection
 
-PHASE 1️⃣: DEFINE PROBLEM
-Problem Statement
 Objective: Build a machine learning model to detect fraudulent credit card transactions
 
 Business Context:
